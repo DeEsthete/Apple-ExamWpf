@@ -1,0 +1,16 @@
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\bin\Debug\ExamProjectWpf.exe.config
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\bin\Debug\ExamProjectWpf.exe
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\bin\Debug\ExamProjectWpf.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\obj\Debug\MainWindow.g.cs
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\obj\Debug\App.g.cs
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\obj\Debug\ExamProjectWpf_MarkupCompile.cache
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\obj\Debug\ExamProjectWpf_MarkupCompile.lref
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\obj\Debug\MainWindow.baml
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\obj\Debug\ExamProjectWpf.g.resources
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\obj\Debug\ExamProjectWpf.Properties.Resources.resources
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\obj\Debug\ExamProjectWpf.csproj.GenerateResource.Cache
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\obj\Debug\ExamProjectWpf.exe
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\obj\Debug\ExamProjectWpf.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\obj\Debug\ExamProjectWpf.csprojResolveAssemblyReference.cache
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\bin\Debug\Newtonsoft.Json.dll
+c:\users\павлове\documents\visual studio 2017\Projects\ExamProjectWpf\ExamProjectWpf\bin\Debug\Newtonsoft.Json.xml
